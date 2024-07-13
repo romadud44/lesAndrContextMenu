@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesAndrContextMenu</string>
+    <string name="input_et_hint">Введите число от 1 до 5</string>
+    <string name="random_btn_text">Случайное число</string>
+    <string name="context_title_color_quality">Цветовое качество</string>
+    <string name="context_exit">Выйти</string>
+</resources>
